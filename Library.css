@@ -1,0 +1,21 @@
+body{
+    overflow-x:hidden;
+}
+.carousel-item{
+    padding: 5% 15%;
+
+}
+.carousel-item img{
+   width: 100%;
+   height: 500px; 
+}
+.bg{
+    background-image:url(../Bookshop/Images/library.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-bg{
+    background-color: rgba(19, 14, 5, 0.7);
+    padding: 0% 10%;
+}
+
